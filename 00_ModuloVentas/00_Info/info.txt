@@ -1,0 +1,11 @@
+
+Modulo de Ventas para pequeño sistema en Pyhton Tkinter y Mysql 
+
+Hola que tal
+te comento, el programa ya esta hecho.. o mas bien avanzado, solo tengo que implementar abm de ventas y que este registre las ventas y su detalle en la BD
+no es mucho por ello, ofrecia unos 10 o 15USD
+Los detalles del proyecto fueron modificados por Jon.G. Entra nuevamente a las especificaciones del proyecto y haz las preguntas que creas necesarias.
+aah bueno,  seria basicamente seleccionar los datos que estan en stock actual
+y que se pueda seleccionar los productos para vender
+las ventas realizadas en una tabla
+la verdad no tengo un diseño en particular, pero mas o menos eso es lo que requiere en cuanto a interfaz.. visualizar los datos a vender y las ventas realizadas
