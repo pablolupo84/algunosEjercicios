@@ -213,7 +213,7 @@ int reservaButaca(BUTACA localidades[][ASIENTOS])
 				printf("Quieres reservar la butaca %c%d en la fila %d.\n",letraFila,asientoReservar,i+1);
 				printf("Introduce tu nombre\n");
 				fflush(stdin);
-				scanf("%s", &localidades[i][posicionPertenece].nombre);
+				scanf("%s", &localidades[i][posicionPertenece].nombre[0]);
 				localidades[i][posicionPertenece].disponibilidad='R';
 				printf("Has reservado esa butaca correctamente\n");
 				printf("Quieres seguir reservando? [S/N] ");
